@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "geoffreyboom@gmail.com",
+    "longName": "4 7 8",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "4 7 8",
+    "uuid": "5f1bd994-b1e2-428a-8247-203b917fd8ef",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
